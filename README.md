@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this study, we will process and analyze data about poisonous mushrooms in North America, in order to better understand the physical chracteristics that can help determine if a given mushroom is edible or not. We will use information gathered from our analysis in order to create a supervised machine learning model that will be able to predict if a mushroom is safe to consume or not, based on these same physical attributes.
+In this study, we will process and analyze data about poisonous mushrooms in North America, in order to better understand the physical characteristics that can help determine if a given mushroom is edible or not. We will use information gathered from our analysis in order to create a supervised machine learning model that will be able to predict if a mushroom is safe to consume or not, based on these same physical attributes.
 
 Commit Log from Original Project Repository:
 https://github.com/gtxsy/datamia0619/commits/master
